@@ -1,0 +1,14 @@
+.header{
+    background-image: url("../images/image1\ \(3\).jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    padding: 30px;
+    height: 100%;
+    color: wheat;
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border: 3px solid white;
+
+}
